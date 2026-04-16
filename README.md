@@ -6,3 +6,6 @@ Day 1: Started Google Data Analytics Professional Certificate. Completed 3 lesso
 [x] Completed all 19 lessons on SQLBolt.
 
 [x] Mastered: Complex Joins, Subqueries, and Table Constraints (CREATE, ALTER, DROP).
+
+## Certifications.
+[SQL (Basic) - HackerRank] https://www.hackerrank.com/certificates/140ed7554dbc
